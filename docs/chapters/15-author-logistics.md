@@ -1,5 +1,5 @@
 ---
-title: "14. Author logistics"
+title: "15. Author logistics"
 ---
 
 After notification, authors need four things from you: what to record, how posters work, how to get a visa, and how to register. Send one email that covers all four. See [Accepted authors](../templates/accepted-authors).

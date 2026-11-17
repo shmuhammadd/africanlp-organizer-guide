@@ -1,5 +1,5 @@
 ---
-title: "6. Call for papers"
+title: "7. Call for papers"
 ---
 
 The call goes out twice: a first call about two months before the deadline and a second call a month later. 2027 sent them on 13 October and 13 November 2026.

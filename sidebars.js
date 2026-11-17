@@ -9,7 +9,7 @@ const sidebars = {
       type: 'category',
       label: 'Before the call',
       collapsed: false,
-      items: ['chapters/about', 'chapters/timeline', 'chapters/proposal', 'chapters/team', 'chapters/infrastructure'],
+      items: ['chapters/about', 'chapters/timeline', 'chapters/proposal', 'chapters/team', 'chapters/infrastructure', 'chapters/host-chairs'],
     },
     {
       type: 'category',

@@ -1,5 +1,5 @@
 ---
-title: "13. Camera-ready and proceedings"
+title: "14. Camera-ready and proceedings"
 ---
 
 The proceedings deadline is hard. Miss it and the papers do not reach the ACL Anthology on time. For 2027 it is 9 February 2027.
@@ -29,15 +29,7 @@ Deliver a few days early. In 2026 the host asked for files on 12 February so the
 
 ## The host's spreadsheet
 
-The host's workshop chairs keep a shared spreadsheet. Fill in your tab promptly:
-
-- Proceedings title.
-- Accepted papers and authors. The host uses this for visas and to check every paper has a registered author.
-- Numbers of orals, posters and Findings papers.
-- Poster boards needed.
-- Who gets the complimentary registration.
-
-In 2026 the host chased most workshops several times for this.
+Confirm the proceedings title and fill in the accepted papers in the host's shared spreadsheet. See [Information for the host's workshop chairs](host-chairs).
 
 ## TODO
 
