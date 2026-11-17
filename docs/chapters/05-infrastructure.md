@@ -30,9 +30,9 @@ Create a Google Group for the year. 2027 used `africanlp-eacl2027@googlegroups.c
 
 ## Website
 
-Until 2026 the website was a Google Site, copied from the year before. From 2027 it is a static site on GitHub Pages at [africanlp.github.io/2027](https://africanlp.github.io/2027/home).
+Until 2026 the website was a Google Site, copied from the year before. From 2027 it is a static site on GitHub Pages. Each year gets its own repository in the [AfricaNLP GitHub organisation](https://github.com/AfricaNLP), named for the year. The 2027 site lives in [AfricaNLP/2027](https://github.com/AfricaNLP/2027) and is served at [africanlp.github.io/2027](https://africanlp.github.io/2027/home).
 
-1. Copy last year's site into a folder named for the new year.
+1. Create a new repository named for the year, such as `AfricaNLP/2028`, and copy last year's site into it.
 2. Update the title, year, theme, topics, organisers, speakers and dates.
 3. Use "TBA" for any date not yet fixed.
 4. Give each organiser who edits it write access to the repository.
