@@ -2,9 +2,11 @@
 title: "2. Timeline"
 ---
 
-Every date comes from the host conference's workshop timeline. Find the host's dates for direct submission, ARR commitment, notification, camera-ready and proceedings. Then work backwards.
+The deadlines change every year. They depend on the conference that hosts the workshop that year, and the host's workshop chairs set them. They send the dates for submission, ARR commitment, notification, camera-ready and proceedings once the workshop proposal is accepted. Take those dates as given, then work backwards from them for everything else.
 
-## 2027 dates
+The table below shows 2027 as an example. Do not reuse its dates.
+
+## 2027 dates (host: EACL 2027)
 
 All deadlines are anywhere on Earth (AoE) unless marked GMT.
 

@@ -23,7 +23,7 @@ The guide follows the order of the work. A first-time general chair can read it 
 | 1–2 months before the workshop | Camera-ready, proceedings, programme | [Proceedings](chapters/proceedings), [Programme](chapters/programme) |
 | Workshop day | Talks, posters, awards | [Workshop day](chapters/workshop-day) |
 
-The full date table for 2027 is in [Timeline](chapters/timeline).
+The real deadlines come from the host conference's workshop chairs and change each year. The 2027 dates are in [Timeline](chapters/timeline) as an example.
 
 ## What is in the guide
 
