@@ -1,5 +1,5 @@
 ---
-title: "8. OpenReview setup"
+title: "10. OpenReview setup"
 ---
 
 This chapter takes you from an empty OpenReview account to a venue that accepts papers, with reviewers invited and the review schedule set. It records what we did for 2027.

@@ -1,5 +1,5 @@
 ---
-title: "13. Sponsorship"
+title: "8. Sponsorship"
 ---
 
 Sponsorship pays for travel grants and registration waivers for African authors. Many authors cannot attend without it.

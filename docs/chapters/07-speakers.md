@@ -1,5 +1,5 @@
 ---
-title: "11. Speakers and panel"
+title: "7. Speakers and panel"
 ---
 
 2027 planned two keynotes, one invited talk and a panel. Candidate names go into the proposal. Firm invitations go out after acceptance.
