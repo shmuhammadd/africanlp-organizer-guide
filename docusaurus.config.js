@@ -30,7 +30,7 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           routeBasePath: '/',
-          editUrl: `${repo}/tree/main/`,
+          editUrl: `${repo}/tree/master/`,
           showLastUpdateTime: true,
         },
         blog: false,
